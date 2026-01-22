@@ -33,7 +33,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Generate feed.xml
-      run: python src
+      run: python noticeCrawling.py
     - name: Push to the output branch
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
@@ -46,4 +46,4 @@ jobs:
         verbose: true
         jekyll: false
       env:
-        GITHUB_TOKEN: ${{ github.token }}
+        GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
