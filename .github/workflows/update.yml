@@ -38,7 +38,7 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
         target_branch: dist
-        build_dir: docs
+        build_dir: .
         keep_history: true
         author: Momentung Bot <19310326+Hepheir@users.noreply.github.com>
         commit_message: "docs(feed.xml): automatic update"
