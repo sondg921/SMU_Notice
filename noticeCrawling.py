@@ -32,4 +32,4 @@ for tag in soup.select(css_selector):
 
 df = pd.DataFrame(data = data, columns = ["Head", "Date", "Url"])
 df['Date'] = pd.to_datetime(df['Date'])
-df.to_csv("notice.csv", index = False)
+df.to_csv("docs/notice.csv", index = False)
