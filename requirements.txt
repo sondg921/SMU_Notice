@@ -4,4 +4,3 @@ selenium
 pandas
 feedgen
 pytz
-os
