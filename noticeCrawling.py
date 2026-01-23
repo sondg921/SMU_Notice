@@ -5,6 +5,7 @@ import re
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 import pytz
+import os
 
 # 1. RSS 피드 기본 설정
 fg = FeedGenerator()
@@ -53,8 +54,10 @@ for tag in soup.select(css_selector):
     # --- RSS 아이템 생성 종료 ---
 
 # 3. CSV 파일 저장
+os.makedirs('docs', exist_ok=True)
+
 df = pd.DataFrame(data=data, columns=["Head", "Date", "Url"])
-df.to_csv("notice.csv", index=False, encoding='utf-8-sig')
+df.to_csv("docs/notice.csv", index=False, encoding='utf-8-sig')
 
 # 4. RSS XML 파일 저장
-fg.rss_file('feed.xml', pretty=True)
+fg.rss_file('docs/feed.xml', pretty=True)
