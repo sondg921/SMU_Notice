@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>상명대학교 컴퓨터과학과 공지사항</title>
+    <title>상명대학교 공지사항</title>
     <link>https://cs.smu.ac.kr</link>
-    <description>상명대 컴퓨터과학과 공지사항 RSS 피드입니다.</description>
+    <description>상명대학교 공지사항 RSS 피드입니다.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 23 Jan 2026 02:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 04:09:46 +0000</lastBuildDate>
     <item>
       <title>2025학년도 제2학기 학사경고자 면담 및 프로그램 시행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762189&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
