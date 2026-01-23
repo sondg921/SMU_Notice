@@ -11,9 +11,9 @@ import pytz
 os.makedirs('docs', exist_ok=True) # docs 폴더가 없으면 생성
 
 fg = FeedGenerator()
-fg.title('상명대학교 컴퓨터과학과 공지사항')
+fg.title('상명대학교 공지사항')
 fg.link(href='https://cs.smu.ac.kr', rel='alternate')
-fg.description('상명대 컴퓨터과학과 공지사항 RSS 피드입니다.')
+fg.description('상명대학교 공지사항 RSS 피드입니다.')
 fg.language('ko')
 kst = pytz.timezone('Asia/Seoul')
 
