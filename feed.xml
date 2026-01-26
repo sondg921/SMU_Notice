@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 23 Jan 2026 05:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 05:01:22 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -117,21 +117,9 @@
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2025학년도 제2학기 학사경고자 면담 및 프로그램 시행 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762189&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762189</guid>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 대학교 내 장애인 보조견 동반출입 관련 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762193&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762193</guid>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 25-2 디딤돌(국가II) 장학금 지급 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762236&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762236</guid>
+      <title>[전체] [교무처] 2026학년도 제1학기 대상 캠퍼스 간 복수전공 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762237&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762237</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -141,21 +129,9 @@
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 바이오헬스 혁신융합대학 2026학년도 1학기 수강신청 및 학사일정 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762233&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762233</guid>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학사운영팀] 2026학년도 제1학기 학점교류 안내(서울) (상명→타대)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762234&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762234</guid>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [교무처] 2026학년도 제1학기 대상 캠퍼스 간 복수전공 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762237&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762237</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -265,6 +241,30 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762490&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762490</guid>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_SK그룹</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762509&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762509</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2025학년도 2학기 현장실습 성과 발표대회 결과 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762508&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762508</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [비교과통합지원센터] 2025-2학기 비교과 마일리지 장학생 선발 안내(서울,천안)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762510&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762510</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명사회봉사단] 해외아동을 위한 컬러링북 만들기 봉사활동 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762511&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762511</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
