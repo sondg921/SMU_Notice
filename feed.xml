@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 28 Jan 2026 07:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 08:34:47 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -127,12 +127,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762234&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762234</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 2026년도 전국 지역인재 7급 수습직원 선발시험 공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762409</guid>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [취업진로지원팀] 2026-1 양현재 신입반원 모집</title>
@@ -270,6 +264,12 @@
       <title>[전체] 2026-1 군 복무 중 학점취득 원격강좌 수강안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762563&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762563</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 1학기 국가장학금 신청(2차) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762578&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762578</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
