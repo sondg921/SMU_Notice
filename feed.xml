@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 01 Feb 2026 23:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 02:22:37 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -127,12 +127,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762448&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762448</guid>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [SJC] 2026학년도 2학기 파견 교환학생 일부 대학 설명회 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762465&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762465</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [교무처] 증명발급 서비스 일시 중단 안내</title>
@@ -271,6 +265,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762713&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762713</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 2026학년도 잡(JOB)서포터즈 선발결과 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762728&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762728</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
