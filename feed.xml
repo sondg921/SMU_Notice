@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Feb 2026 04:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 05:52:11 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -259,6 +259,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762746&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762746</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도 신입생 예비대학 참가신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762777&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762777</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 현장실습학기제 수기 공모전 자료 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762778&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762778</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
