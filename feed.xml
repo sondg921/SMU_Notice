@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Feb 2026 23:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:08:00 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -201,7 +201,7 @@
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [계당교양교육원교학팀(서울)] 2026학년도 제1학기 기초교양 교과목 수강신청 안내(서울캠퍼스)</title>
+      <title>[전체] [계당교양교육원교학팀(서울)] 2026학년도 제1학기 기초교양 교과목 수강신청 안내(서울캠퍼스) 수정(02.04.)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762590&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762590</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0900</pubDate>
@@ -265,6 +265,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762778&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762778</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(3월) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762799&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762799</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명소셜임팩트센터] 2026 관학 협력 종로모던멘토링 대학생 멘토 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762800&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762800</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
