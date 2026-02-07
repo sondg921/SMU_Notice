@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 07 Feb 2026 02:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 04:29:00 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -103,12 +103,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762482&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762482</guid>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기 타 학과(전공) 전공인정 교과목 현황 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762522&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762522</guid>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [학사운영팀] 2026학년도 제1학기 수강신청 안내 및 강의시간표 공지(2026.02.06. 기준)</title>
@@ -301,6 +295,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762922&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762922</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 제1차 서울시 학자금대출이자 지원 사업 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762926&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762926</guid>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
