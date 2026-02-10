@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Feb 2026 14:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 16:14:41 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -111,12 +111,6 @@
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 2월 1주차 주간 채용(인턴) 정보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762610&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762610</guid>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학사운영팀] 2026학년도 제1학기 취업계 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762623&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762623</guid>
@@ -171,15 +165,15 @@
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(3월) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762799&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762799</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명소셜임팩트센터] 2026 관학 협력 종로모던멘토링 대학생 멘토 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762800&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762800</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(3월) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762799&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762799</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
