@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 12 Feb 2026 20:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 21:35:20 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -33,12 +33,6 @@
       <pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 상명대 대학일자리플러스센터 및 졸업생특화프로그램 리플렛</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_758963</guid>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [교무처] 대학 제·증명서 발급 홈페이지 및 운영 방법 변경 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=759013&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_759013</guid>
@@ -55,12 +49,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=759016&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_759016</guid>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 온라인 취업지원서비스(잡플래닛, 에듀스, 코멘토) 이용 안내(콘텐츠 업데이트)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=759176&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_759176</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교무처] 2025학년도 제2학기 포트폴리오 졸업인증제(논문,작품,시험,대체 등) 신청 안내</title>
@@ -99,87 +87,15 @@
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기 수강신청 안내 및 강의시간표 공지(2026.02.12. 기준)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762517&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762517</guid>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기 타 학과(전공) 전공인정 교과목 현황 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762522&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762522</guid>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 1학기 수강신청 관련 안내 경로</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762626&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762626</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀/교무팀] 2025학년도 전기 졸업예정자 졸업사정 결과 및 학위취득유예·재수 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762713&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762713</guid>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 2026학년도 잡(JOB)서포터즈 선발결과 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762728&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762728</guid>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 제1학기 1차 장바구니 수강신청 기간 연장 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762746&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762746</guid>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [계당교양교육원] 2026학년도 신입생 예비대학 참가신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762777&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762777</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)] 현장실습학기제 수기 공모전 자료 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762778&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762778</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 제1학기 학부 및 대학원 재학생 등록 안내 / 등록금 분할납부 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762818&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762818</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명소셜임팩트센터] 2026 관학 협력 종로모던멘토링 대학생 멘토 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762800&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762800</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(3월) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762799&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762799</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 제1학기 등록금 분할납부 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762811&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762811</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 제1학기 학부 및 대학원 재학생 등록 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762813&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762813</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2025학년도 2학기 디딤돌(국가II) 장학금 추가 지급 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762823&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762823</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -189,100 +105,10 @@
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)] 2026년 1학기 현장실습학기제 실습생 추가 모집 안내(디비손해보험(주))</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762841&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762841</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2026학년도 신입생 대학생활 안내 책자 게시</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762855&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762855</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2026학년도 1학기 교내 근로(행정부서) 장학생 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762902&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762902</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 2월 2주차 주간 채용(인턴) 정보  ​</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762913&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762913</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [교무처] 2026학년도 신·편입생 학번 확인 방법 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762919&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762919</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026년 제1차 서울시 학자금대출이자 지원 사업 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762926&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762926</guid>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [장학] 2026학년도 1학기 근로장학생 신청(~2.13.(금) 오전 10:00)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762947&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762947</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2026학년도 1학기 국가장학금 재학생 우선(학비)감면 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762950&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762950</guid>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [장애학생지원센터] 2026학년도 1학기 국가근로 장애대학생 교육지원인력 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762971&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762971</guid>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [교육혁신추진팀] 두레장학생(조교)채용 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762977&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762977</guid>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [비교과통합지원센터] 2025학년도 2학기 비교과 마일리지 장학생 선발 결과 발표(서울,천안)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763026&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763026</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [예비군대대] 병역판정검사 일자 및 장소 본인선택 안내(2차)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763027&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763027</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_유니클로</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763037&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763037</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 제1학기 신입생 및 편입생 수강신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763042&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763042</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 25-2 디딤돌 장학금 지급 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763044&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763044</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [AI교육센터] AI+X선도인재양성 중급 프로젝트 수업 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763045&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763045</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
