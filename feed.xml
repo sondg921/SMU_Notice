@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 13 Feb 2026 06:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:50:13 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -99,7 +99,7 @@
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기 수강신청 안내 및 강의시간표 공지(2026.02.12. 기준)</title>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기 수강신청 안내 및 강의시간표 공지(2026.02.13. 기준)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762517&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762517</guid>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0900</pubDate>
@@ -115,12 +115,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762626&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762626</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 2026학년도 잡(JOB)서포터즈 선발결과 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762728&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762728</guid>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026학년도 제1학기 1차 장바구니 수강신청 기간 연장 안내</title>
@@ -285,9 +279,21 @@
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] 2026 상반기 강남구 장학생 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763086&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763086</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [취업진로지원팀] 2월 3주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763065&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763065</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2025학년도 전기 학위수여식 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763084&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763084</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
