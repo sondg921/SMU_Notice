@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 14 Feb 2026 02:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:42:25 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -126,12 +126,6 @@
       <title>[컴과] [공지] 2026학년도 제1학기 학부 및 대학원 재학생 등록 안내 / 등록금 분할납부 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762818&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_762818</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명소셜임팩트센터] 2026 관학 협력 종로모던멘토링 대학생 멘토 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762800&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_762800</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -277,6 +271,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763084&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763084</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 수뭉이 설 인사말 카드 이미지 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763095&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763095</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
