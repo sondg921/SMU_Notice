@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Feb 2026 23:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 02:08:47 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -135,21 +135,9 @@
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 2025학년도 제5차 지역사회 릴레이 환경정비(플로깅)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763105&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763105</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학사운영팀/교무팀] 2026학년도 제1학기 K-MOOC 학점인정 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763102&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763102</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)] 서울영커리언스 캠프 참여자 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763108&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763108</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -313,6 +301,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763309&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763309</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [박물관] 근현대 통신기기 기증 특별전 &lt;소리를 잇다, 세상을 잇다&gt; 개최 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763332&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763332</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 청년 성장 올인(ALL-IN) 데이 프로그램 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763339&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763339</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 26-1 국가근로장학사업 장학생 근무기관(부서) 배정결과 및 사전교육 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763350&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763350</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
