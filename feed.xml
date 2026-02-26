@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Feb 2026 14:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:57:29 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -147,12 +147,6 @@
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생복지팀] 2026학년도 신입생 오리엔테이션 시행 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763117&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763117</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [서울캠퍼스] 2026학년도 입학식 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763126&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763126</guid>
@@ -169,12 +163,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763146&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763146</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_한국철도공사</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763199&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763199</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [취업진로지원팀] 고용노동부 2026년도 청년일자리사업 타운홀미팅</title>
@@ -300,6 +288,12 @@
       <title>[전체] 2026학년도 1학기 푸른등대 기부장학금 신규장학생 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763354&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763354</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 3월 1주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763375&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763375</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
