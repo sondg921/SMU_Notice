@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 27 Feb 2026 05:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 06:56:38 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -366,6 +366,12 @@
       <title>[전체] [학생복지팀] 일주학술문화재단 2026년 국내학사 장학생 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763409</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터] 2026-1학기 &lt;가치 있게 같이 듣는, K-MOOC 탐색 챌린지&gt; 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763417&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763417</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
