@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Feb 2026 23:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:07:51 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -129,6 +129,12 @@
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [교무처] 2026학년도 신입생 및 편입생 학번 확인 방법 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762919&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_762919</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [장애학생지원센터] 2026학년도 1학기 국가근로 장애대학생 교육지원인력 모집 안내(기간 연장)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=762971&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_762971</guid>
@@ -165,15 +171,21 @@
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 고용노동부 2026년도 청년일자리사업 타운홀미팅</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763200&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763200</guid>
+      <title>[전체] [지자체 협력사업] 공공기숙사 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763188&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763188</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생군사교육단(서울, 천안)] 2026년 전반기 육군 학군사관후보생(ROTC) 67기, 68기 선발계획 공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763205&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763205</guid>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_한국철도공사</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763199&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763199</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 고용노동부 2026년도 청년일자리사업 타운홀미팅</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763200&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763200</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -192,6 +204,12 @@
       <title>[전체] [예비군대대] 2026년 상명대 예비군훈련 연간일정 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763197&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763197</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생군사교육단(서울, 천안)] 2026년 전반기 육군 학군사관후보생(ROTC) 67기, 68기 선발계획 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763205&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763205</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -291,12 +309,6 @@
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 3월 1주차 주간 채용(인턴) 정보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763375&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763375</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_예금보험공사</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763377&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763377</guid>
@@ -324,6 +336,12 @@
       <title>[전체] [학생복지팀] 2026학년도 1학기 셔틀버스 한시적 운행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763373&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763373</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 3월 1주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763375&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763375</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
