@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 27 Feb 2026 09:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 10:39:05 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -384,6 +384,12 @@
       <title>[전체] [계당교양교육원교학팀] 2026학년도 제1학기 1차 폐강 교양 교과목 현황 안내(서울)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763431&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763431</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기 폐강 교과목(전공/교직/일선) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763432&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763432</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
