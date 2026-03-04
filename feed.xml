@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 04 Mar 2026 14:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 15:42:20 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -157,6 +157,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763309&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763309</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년도 상반기 울산연구원 장학생 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763352&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763352</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026학년도 1학기 푸른등대 기부장학금 신규장학생 선발 안내</title>
@@ -345,12 +351,6 @@
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생복지팀] 26-1 교내장학금 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763578&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763578</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026-2/2026-1 중국어권·러시아어권 파견 교환학생(정규·장학·어학) 모집 공고</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763518&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763518</guid>
@@ -384,6 +384,12 @@
       <title>[전체] [학생복지팀] 2026학년도 1학기 천원의 아침밥 시행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763562&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763562</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 26-1 교내장학금 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763578&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763578</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
