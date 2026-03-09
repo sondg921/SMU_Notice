@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 09 Mar 2026 02:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 04:52:24 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -163,12 +163,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763463&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763463</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 26-1 고졸 후학습자 장학사업(희망사다리 Ⅱ유형) 신규장학생 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763501&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763501</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [학사운영팀] 2026학년도 제1학기 외국어 및 한국어 졸업인증 제출 안내</title>
@@ -367,6 +361,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763660&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763660</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 상명대학교사범대학부속여자고등학교  과학거점학교 실험·실습보조원 채용 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763697&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763697</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
