@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Mar 2026 02:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 04:42:50 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -291,7 +291,7 @@
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [AI에듀테크팀] 2026학년도 1학기 WIDEEP기초학력향상 비교과 프로그램 안내 [2026. 3. 5(목). ~ 3. 13.(금)]</title>
+      <title>[전체] [AI에듀테크팀] 2026학년도 1학기 WIDEEP기초학력향상 비교과 프로그램 안내 및 신청</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763635&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763635</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0900</pubDate>
@@ -343,6 +343,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763727&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763727</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2025학년도 후기(2026년 8월) 졸업예정자 졸업기준 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763752&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763752</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 우수학생 국가장학사업(인문100년･예술체육비전) 신규장학생 사전 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763759&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763759</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 나만의 커리어·교양플랜 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763760&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763760</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
