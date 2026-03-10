@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:47:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:52:33 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -156,12 +156,6 @@
       <title>[컴과] 이탈리아대사관 1일대사 프로그램 안내 홍보</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763547&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763547</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명대학교박물관] 교육조교 채용 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763522&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763522</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -345,6 +339,12 @@
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 스터디상생플러스 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763782&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763782</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [학사운영팀] 2025학년도 후기(2026년 8월) 졸업예정자 졸업기준 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763752&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763752</guid>
@@ -360,6 +360,12 @@
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 나만의 커리어·교양플랜 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763760&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763760</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 상명튜터링 모집안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763775&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763775</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
