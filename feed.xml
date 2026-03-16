@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 16 Mar 2026 05:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:19:16 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,12 +31,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] 2025학년도 2학기 융합공과대학 선후배이어주기 멘토 모집 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760236&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_760236</guid>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] 2025학년도 전기(2026.2) 졸업 관련 기준 안내</title>
@@ -345,6 +339,12 @@
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[컴과] 2026학년도 1학기 의사소통능력향상 프로그램 모집 안내 및 홍보</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763988&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_763988</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [한미교육위원단] 2027-2028년도    풀브라이트    미국   대학원   장학    프로그램    및    설명회    안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763968&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763968</guid>
@@ -354,6 +354,18 @@
       <title>[전체] [현장실습·일경험지원팀(서울)] 현장실습학기제 운영 개선을 위한 설문조사 시행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763974&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763974</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 의사소통능력향상 프로그램 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763991&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763991</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교무처] 2026학년도 제1학기 수강신청 포기 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763992&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763992</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
