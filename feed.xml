@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:43:17 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -144,6 +144,12 @@
       <title>[전체] 2026학년도 대외협력처 학생인턴 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763660&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763660</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 하계 해외 어학연수 프로그램 참가자 모집(영미어권)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763622&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_763622</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -348,6 +354,12 @@
       <title>[전체] [캠퍼스 통합] 2026학년도 하계 몽골 해외봉사 프로그램 참가자 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764081&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764081</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 의사소통클리닉 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764120&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764120</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
