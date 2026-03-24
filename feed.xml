@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 24 Mar 2026 06:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:53:31 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -147,12 +147,6 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [LINK CAMPUS UNIVERSITY] 유학 박람회 참가 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763920&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763920</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 3월 3주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763921&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763921</guid>
@@ -273,9 +267,21 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_근로복지공단</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764272&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764272</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [상명사회봉사단]  2026학년도 쪽방촌 물품 후원 자원봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764256&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764256</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [혁신IR센터] 2026학년도 상명프렌즈 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764265&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764265</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
