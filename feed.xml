@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Mar 2026 02:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 05:07:18 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -133,12 +133,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763799&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763799</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [국립국제교육원] 2026년「한·일 학술문화 및 청소년 교류」사업 대학생 선발계획 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763947&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_763947</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] 2026학년도 1학기 의사소통능력향상 프로그램 모집 안내 및 홍보</title>
@@ -282,6 +276,12 @@
       <title>[전체] [국제언어문화교육원] 두레장학생(두레조교) 채용 공고</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764305&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764305</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 푸른등대 삼성기부장학금 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764307&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764307</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
