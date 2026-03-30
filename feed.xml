@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 30 Mar 2026 05:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:43:34 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -127,12 +127,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764049&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_764049</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [캠퍼스 통합] 2026학년도 하계 몽골 해외봉사 프로그램 참가자 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764081&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764081</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 의사소통클리닉 안내</title>
@@ -270,6 +264,18 @@
       <title>[전체] [계당교양교육원] 2026학년도 상명핵심역량권장도서 선정안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764358&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764358</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [충남신용보증재단] 2026년 4월 동네창업학교 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764384&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764384</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [창업지원센터] 2026학년도 창업아이디어경진대회 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764380&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764380</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
