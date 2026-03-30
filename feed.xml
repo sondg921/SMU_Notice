@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 29 Mar 2026 23:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:36:10 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -121,12 +121,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763988&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763988</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [국립국제교육원]2026-2027 이탈리아 정부초청 장학생 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764011&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764011</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [공지] 2026-1학기 평생지도교수 변경 신청 안내 (26. 3. 22.(일) 까지)</title>
@@ -265,6 +259,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764339&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764339</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [참여조사] 2026년 ICT학점연계 프로젝트 인턴십 학생 모집 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764359&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_764359</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도 상명핵심역량권장도서 선정안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764358&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764358</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
