@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 09:01:54 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,12 +141,6 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026 전공탐색박람회 개최 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764179&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764179</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 1학기 컴퓨터과학전공 학부연구실(G302호) 운영 및 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764220&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_764220</guid>
@@ -265,6 +259,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764380&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764380</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [산학엑셀러레이팅센터] 모두의 창업 프로젝트 참여자 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764437&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764437</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 상명 토론대회 안내</title>
