@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 07 Apr 2026 23:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:32:24 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -114,18 +114,6 @@
       <title>[컴과] [참여조사] 2026년 ICT학점연계 프로젝트 인턴십(글로벌과정) 학생 모집 안내(~4.3.금 오전 10시)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764359&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_764359</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [충남신용보증재단] 2026년 4월 동네창업학교 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764384&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764384</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] ICT 학점연계 프로젝트 글로벌과정 인턴십 인턴 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764391&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764391</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -283,6 +271,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764639&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764639</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [창업지원센터] 2026년 세종특별자치시 데이터·AI 활용 경진대회 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764667&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764667</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [창업지원센터] 경상북도 공공데이터 활용 창업경진대회 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764668&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764668</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
