@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:24:27 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,12 +31,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내(추가 선발)</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760931&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_760931</guid>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [공지] 2026학년도 제1학기 취업계 안내</title>
@@ -273,6 +267,12 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[컴과] [홍보] 2026년 대통령과학장학금 사업 안내 및 학생 신청 홍보</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764722&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_764722</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] 2026학년도 국가우수(인문100년, 예술체육비전) 장학금 신규 장학생 선발을 위한 서류 제출 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764699&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764699</guid>
@@ -294,6 +294,12 @@
       <title>[전체] [현장실습·일경험지원센터] 2026년 하반기 KOTRA 해외무역관 현장실습제도 미시행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764713&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764713</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 하계 해외 어학연수 프로그램(영미어권) 참가자 모집 결과 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764724&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764724</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
