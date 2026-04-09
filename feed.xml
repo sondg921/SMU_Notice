@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Apr 2026 14:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:19:08 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -69,12 +69,6 @@
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [학사] 2026학년도 찾아가는 전공교육과정(학사제도) 설명회</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763785&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_763785</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [재수강] 2026학년도 제1학기 재수강 대체 교과목에 대한 재수강 신청 안내(~4.17.(금) 10시까지)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763799&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763799</guid>
@@ -111,12 +105,6 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [창업지원센터] 2026학년도 창업아이디어경진대회 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764380&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764380</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 1학기 상명 토론대회 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764394&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764394</guid>
@@ -132,12 +120,6 @@
       <title>[컴과] 🎓2026 융합공과대학 학사상담 주간 안내(4.7.(화) ~ 4.9.(목) G105호)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764452&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_764452</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_4월 2주차 넷마블</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764490&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764490</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -219,15 +201,15 @@
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생복지팀] ISIC 국제학생증 인증비 지원행사 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764574&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764574</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단] 2026년 제1차 생명을 살리는 사회공헌활동 사랑의 헌혈운동 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764580&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764580</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] ISIC 국제학생증 인증비 지원행사 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764574&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764574</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
