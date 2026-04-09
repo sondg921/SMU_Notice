@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Apr 2026 02:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:10:21 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -282,6 +282,18 @@
       <title>[전체] 2026년 대통령과학장학금 사업 안내 및 학생 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764704&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764704</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 비교과 프로그램 '댕댕이와 함께하는 힐링 캠프' 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764712&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764712</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원센터] 2026년 하반기 KOTRA 해외무역관 현장실습제도 미시행 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764713&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764713</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
