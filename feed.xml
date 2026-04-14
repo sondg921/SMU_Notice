@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 13 Apr 2026 23:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:39:26 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -37,12 +37,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763309&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763309</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [졸업] 2026학년도 제1학기 조기졸업 신청 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763461&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_763461</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [수업] 전자출결시스템(헤이영캠퍼스) 사용 및 출결관리 유의 사항 안내</title>
@@ -283,6 +277,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764786&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764786</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [공지] 2026학년도 제1학기 중간 강의평가 시행</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764791&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_764791</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [공지] 2026학년도 하계 계절수업 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764797&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_764797</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명사회봉사단] 제1차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764803&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764803</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
