@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:05:52 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -39,6 +39,12 @@
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[컴과] [졸업] 2026학년도 제1학기 조기졸업 신청 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763461&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_763461</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[컴과] [수업] 전자출결시스템(헤이영캠퍼스) 사용 및 출결관리 유의 사항 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763462&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763462</guid>
@@ -61,12 +67,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763799&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_763799</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] 2026학년도 1학기 의사소통능력향상 프로그램 모집 안내 및 홍보</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763988&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_763988</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [공지] 2026-1학기 평생지도교수 변경 신청 안내 (26. 3. 22.(일) 까지)</title>
@@ -240,12 +240,6 @@
       <title>[전체] [학사운영팀] 2026학년도 제1학기 중간고사 시행계획 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764785&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764785</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 통합데이터베이스 암호화 모듈 업그레이드 작업에 따른 일시중지 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764786&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764786</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
