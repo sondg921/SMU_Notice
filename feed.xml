@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:20:33 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -97,12 +97,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=764452&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_764452</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명사회봉사단] 2026년 제1차 생명을 살리는 사회공헌활동 사랑의 헌혈운동 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764580&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764580</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [학생복지팀] ISIC 국제학생증 인증비 지원행사 안내</title>
@@ -300,6 +294,12 @@
       <title>[전체] [충남콘텐츠진흥원] 2026 뉴콘텐츠 인턴십 참가자 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764861&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764861</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_펄어비스</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764880&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764880</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
