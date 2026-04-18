@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 18 Apr 2026 22:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 23:36:12 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -99,12 +99,6 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [창업지원센터] 경상북도 공공데이터 활용 창업경진대회 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764668&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764668</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학생상담센터] 2026학년도 개인상담 및 심리검사 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764683&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764683</guid>
@@ -189,15 +183,15 @@
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 미래내일 일경험사업(ESG지원형) 바이오헬스케어 온보딩 프로그램 참여자 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764773&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764773</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [캠퍼스 통합] 2026학년도 하계 몽골 해외봉사단원 최종 선발 결과 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764768&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764768</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 미래내일 일경험사업(ESG지원형) 바이오헬스케어 온보딩 프로그램 참여자 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764773&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_764773</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
