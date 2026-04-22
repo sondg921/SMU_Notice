@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:21:48 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -153,12 +153,6 @@
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 제1차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764803&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764803</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026년 파란사다리 사업 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764816&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764816</guid>
@@ -169,24 +163,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764818&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764818</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [삼육대학교] 2026년 파란사다리 사업 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764847&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764847</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] '고향올래 청년복합 조성사업' 달그락 맹그락 1기 참가자 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764848&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764848</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [충남콘텐츠진흥원] 2026 뉴콘텐츠 인턴십 참가자 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764861&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764861</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_펄어비스</title>
@@ -264,6 +240,30 @@
       <title>[전체] [SAFKorea] 1. SAF / IES Global 동문특강 2. 2027 봄학기 SAF 방문학생/IES 해외인턴십대면설명회</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765102&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765102</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도「교양교육과정 재구조화 및 교육과정 개편 연구」연구자 공모</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765106&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765106</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도「CDR+고도화를 위한 교양-전공-비교과 연계방안 연구(서울)」연구자 공모</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765108&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765108</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도「교양영어(EnglishforAcademicPurposes) 교과목 운영 방안 연구」연구자 공모</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765109&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765109</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [계당교양교육원] 2026학년도「교양캡스톤 교과목 개발 연구」연구자 공모</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765110&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765110</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
