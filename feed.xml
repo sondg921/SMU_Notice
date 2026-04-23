@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Apr 2026 05:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:55:53 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -159,12 +159,6 @@
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 2026 대한민국 상생 채용박람회 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764941&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764941</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026년 8월말 퇴직교원 정부포상 추천 후보자 공개검증 시행</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764947&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764947</guid>
@@ -273,6 +267,12 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [안산대학교] 2026년 파란사다리 연수생 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765165&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765165</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [상명사회봉사단] 제2차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765120&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765120</guid>
@@ -288,6 +288,18 @@
       <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 스위트박스 학습컨설팅 모집 안내_트랙1</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765128&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765128</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 상명대학교 2026학년도 후기모집 일반 및 특수대학원 신입생 모집일정 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765168&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765168</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명소셜임팩트센터] 글로벌 종로 청년봉사단 '다락(多樂)' 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765169&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765169</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
