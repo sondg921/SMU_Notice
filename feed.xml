@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 05:31:19 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,12 +31,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내(추가 선발)</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760931&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_760931</guid>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026학년도 제1학기 등록금 분할납부 안내</title>
@@ -165,12 +159,6 @@
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_펄어비스</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764880&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_764880</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 2026 대한민국 상생 채용박람회 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=764941&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_764941</guid>
@@ -271,6 +259,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765092&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765092</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [현장실습·일경험지원팀(서울)] 2026년 서울영커리언스 인턴십(여름학기) 참여자 모집</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765142&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_765142</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생상담센터(서울)] 2026학년도 1학기 &lt;심리검사데이&gt;신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765139&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765139</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [상명사회봉사단] 제2차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집 안내</title>
