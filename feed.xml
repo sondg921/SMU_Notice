@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:08:59 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -324,6 +324,12 @@
       <title>[전체] 2026 연구자리그 과학기술창업 경진대회 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765295&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765295</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [예비군대대] 해병대 장교 사후 141기 모집 홍보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765328&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765328</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
