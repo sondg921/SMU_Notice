@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 May 2026 14:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 15:49:38 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -147,30 +147,6 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [현장실습·일경험지원센터] 2026년 서울영커리언스 인턴십(여름학기) 참여자 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765126&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765126</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 스위트박스 학습컨설팅 모집 안내_트랙1</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765128&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765128</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 상명대학교 2026학년도 후기모집 일반 및 특수대학원 신입생 모집일정 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765168&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765168</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명소셜임팩트센터] 글로벌 종로 청년봉사단 '다락(多樂)' 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765169&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765169</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_(주)이마트(신세계그룹)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765205&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765205</guid>
@@ -265,6 +241,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765264&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765264</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [공지] 2026학년도1학기 SM-CDR 나비오름 신청 및 변경 안내(미신청자 대상)</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765316&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_765316</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026 연구자리그 과학기술창업 경진대회 안내</title>
