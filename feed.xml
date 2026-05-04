@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 May 2026 23:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:56:44 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,16 +141,16 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [AI에듀테크팀] 상명대학교 AI 기반 학사 지원 플랫폼 'SM-EDU' 서비스 오픈 안내 및 만족도 조사 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765006&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765006</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[컴과] [현장실습·일경험지원팀(서울)] 2026년 서울영커리언스 인턴십(여름학기) 참여자 모집</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765142&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765142</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_(주)이마트(신세계그룹)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765205&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765205</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [교육부] 학생창업유망팀 300+ 안내(제출기한 연장:~5/6(수) 17시)</title>
@@ -313,6 +313,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765387&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765387</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 국가우수장학금(이공계) 신규 장학생 선발 안내(~5/19)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765417&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765417</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교직지원센터] 2026학년도 비사범계 교직과정 이수예정자 선발 계획 안내(문헌정보학전공, 식품영양학전공, 컴퓨터과학전공)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765409</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
