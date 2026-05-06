@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 May 2026 06:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:23:22 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -330,6 +330,18 @@
       <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 상명 맞춤형 워크숍 특강 참여자 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765482&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765482</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(6월) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765512&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765512</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 외부업체 무단 강의실 출입 및 영업행위 주의 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765517&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765517</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
