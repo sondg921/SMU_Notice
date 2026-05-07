@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 May 2026 23:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:56:12 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -153,6 +153,12 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [학생상담센터(서울)] 2026학년도 1학기 &lt;심리검사데이&gt;신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765139&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765139</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[컴과] [행사] &lt;올포랜드&gt; 기업설명회 개최- 26년 하반기 인턴제 (참여조사: ~5.11)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765238&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765238</guid>
@@ -255,12 +261,6 @@
       <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [한미교육위원단] 2027-28년도 풀브라이트 한국어 보조강사 프로그램 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765458&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765458</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [교직지원센터] 2026학년도 비사범계 교직과정 이수예정자 선발 계획 안내(문헌정보학전공, 식품영양학전공, 컴퓨터과학전공)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765409</guid>
@@ -342,6 +342,12 @@
       <title>[컴과] [공지] 2026학년도 비사범계 교직이수 선발 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765524&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765524</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 졸업생 현직자와 함께 직무박람회 SM JOB FAIR 행사 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765533&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765533</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
