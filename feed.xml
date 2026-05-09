@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 09 May 2026 14:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 15:53:35 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,6 +31,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] 2025학년도 컴퓨터과학전공 졸업작품 전시회 개최</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=759899&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_759899</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] 2025학년도 2학기 융합공과대학 선후배이어주기 멘토 모집 안내</title>
@@ -135,12 +141,6 @@
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [현장실습·일경험지원팀(서울)] 2026년 서울영커리언스 인턴십(여름학기) 참여자 모집</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765142&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_765142</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학생상담센터(서울)] 2026학년도 1학기 &lt;심리검사데이&gt;신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765139&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765139</guid>
@@ -168,12 +168,6 @@
       <title>[컴과] [공지] 2026학년도1학기 SM-CDR 나비오름 신청 및 변경 안내(미신청자 대상)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765316&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765316</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [예비군대대] 해병대 장교 사후 141기 모집 홍보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765328&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765328</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
