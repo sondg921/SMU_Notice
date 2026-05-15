@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 15 May 2026 04:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:24:23 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -318,6 +318,12 @@
       <title>[전체] [현장실습·일경험지원팀(서울)]「2026 예비 문화예술교육사 현장 실습처 지원사업」안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765810&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765810</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 학생 디지털 역량강화 교육_특강</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765820&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765820</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
