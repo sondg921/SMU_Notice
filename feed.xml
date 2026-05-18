@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 17 May 2026 23:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:23:24 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,6 +141,12 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기(2026-2 진입) 자유전공 전공선택 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765363&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765363</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [교직지원센터] 2026학년도 비사범계 교직과정 이수예정자 선발 계획 안내(문헌정보학전공, 식품영양학전공, 컴퓨터과학전공)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765409</guid>
@@ -159,9 +165,21 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] 2026학년도 생명윤리심의위원회 정규심의 시행(6월) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765512&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765512</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[컴과] [공지] 2026학년도 비사범계 교직이수 선발 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765524&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765524</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 &lt;상명또래상담&gt; 또래 상담자 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765551&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765551</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -300,6 +318,12 @@
       <title>[전체] [예비군대대] 6.13(토) 휴일예비군 훈련 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765837&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765837</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 2026학년도 대학축제[VOYAGE(항해)] 시행 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765850&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765850</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
