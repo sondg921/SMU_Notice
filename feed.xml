@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 20 May 2026 03:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:43:38 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -117,7 +117,7 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기(2026-2 진입) 지능데이터융합학부 및 자유전공 소속 전공선택 신청 안내</title>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기(2026-2 진입)  전공선택 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765363&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765363</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
@@ -318,6 +318,18 @@
       <title>[전체] [취업진로지원팀] 5월 4주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765942&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765942</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기(2026-2진입) 전공선택 신청 안내(지능·데이터융합학부 대상)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765959&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765959</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [바이오헬스] 혁신융합대학 2026학년도 1학기 성적공시 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765965&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765965</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
