@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 21 May 2026 03:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:54:32 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -159,12 +159,6 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [한미교육위원단] 2025-26년도 풀브라이트 미국 연구비 지원 포스트닥 장학 프로그램 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765609&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765609</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단] 벽없G 교내 디지털 포용성 인식 확산 캠페인 운영 봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765612&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765612</guid>
@@ -201,7 +195,7 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [장학] 2026학년도 1학기 면학B장학금(2차) 선발 및 신청 안내 (~5/21)</title>
+      <title>[컴과] [마감][장학] 2026학년도 1학기 면학B장학금(2차) 선발 및 신청 안내 (~5/21)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765787&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765787</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
@@ -325,6 +319,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765965&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765965</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 한국교육정보화재단 주관 대학생 Adobe 공동구매 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765984&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_765984</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
