@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 25 May 2026 12:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:51:03 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -171,24 +171,6 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 5월 3주차 주간 채용(인턴) 정보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765765&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765765</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)]「2026 예비 문화예술교육사 현장 실습처 지원사업」안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765810&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765810</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 학생 디지털 역량강화 교육_특강</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765820&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765820</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [한국언어문화전공_특강]제10차 해외학자 초청 특강_상해 해양대학교 한국어학과 황림화 교수_“중국에서의 한국어 교육 현황 및 미래”</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765835&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765835</guid>
@@ -285,15 +267,15 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 2학기 삼성드림클래스 대학생멘토 선발공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766012&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766012</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명소셜임팩트센터] 제4차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766002&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766002</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 2학기 삼성드림클래스 대학생멘토 선발공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766012&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766012</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
