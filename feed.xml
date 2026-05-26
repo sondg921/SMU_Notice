@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 26 May 2026 03:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:49:54 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -177,12 +177,6 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [한국언어문화전공_특강]제10차 해외학자 초청 특강_상해 해양대학교 한국어학과 황림화 교수_“중국에서의 한국어 교육 현황 및 미래”</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765835&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765835</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학생복지팀] 2026학년도 대학축제[VOYAGE(항해)] 시행 안내(우천에 따른 전야제 공연 시간 및 장소 변경)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765850&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765850</guid>
@@ -283,6 +277,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766012&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766012</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026 장애인정책 청년모니터링단 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766032&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766032</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [학사운영팀] 2026학년도 제1학기 기말 강의평가 시행 안내</title>
