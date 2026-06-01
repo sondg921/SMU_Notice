@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 06:02:49 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,12 +141,6 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 서울고용센터 주최 청년 커리어설계 과정 &lt;커리어브릿지&gt;</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765905&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765905</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026학년도 2학기 1차 주거안정장학금 학생 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765915&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765915</guid>
@@ -261,9 +255,27 @@
       <pubDate>Sun, 31 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_하나은행</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766151&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766151</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [현장실습·일경험지원센터] 2026년 서울영커리언스 캠프(여름학기) 참여자 모집(재안내)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766146&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766146</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명소셜임팩트센터 운영팀] 2026학년도 제33기 하계 대학생 재능봉사 캠프 참여자 모집 안내(접수중: 팀으로 구성된 선착순 70명 내외)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766153&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766153</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교무처] 성적 평점평균(GPA) 백분위 환산식 변경 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766160&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766160</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
