@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 05:48:27 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,12 +141,6 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [바이오헬스] 혁신융합대학 2026학년도 1학기 성적공시 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765965&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765965</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026학년도 2학기 국가장학금 1차 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765936&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765936</guid>
@@ -255,7 +249,7 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명소셜임팩트센터 운영팀] 2026학년도 제33기 하계 대학생 재능봉사 캠프 참여자 모집 안내(접수중: 팀으로 구성된 선착순 70명 내외_6/2 9:00 기준 41명 접수완료)</title>
+      <title>[전체] [상명소셜임팩트센터 운영팀] 2026학년도 제33기 하계 대학생 재능봉사 캠프 참여자 모집 안내(접수중: 팀으로 구성된 선착순 70명 내외_6/2 13:00 기준 41명 접수완료)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766153&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766153</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
@@ -271,6 +265,30 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766175&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766175</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] 2026학년도 하계방학 단축근무 및 집중휴가 기간 안내 (2026.06.29.~8.21.)</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766206&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_766206</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [한일문화콘텐츠전공] 2026-1 하계 특별학기 '일본콘텐츠현장답사' 교과목 신청 안내 (도쿄)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766221&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766221</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교무처] 증명서 발급 시스템 일시 중단 안내 (8.31.(월))</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766216&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766216</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 제1학기 기말고사 시행계획 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766219&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766219</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
