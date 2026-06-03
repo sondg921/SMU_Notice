@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 03 Jun 2026 14:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:43:59 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -37,12 +37,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=763309&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_763309</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [졸업] 2026학년도 제1학기 조기졸업 신청 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=763461&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_763461</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [수업] 전자출결시스템(헤이영캠퍼스) 사용 및 출결관리 유의 사항 안내</title>
@@ -147,12 +141,6 @@
       <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 2학기 삼성드림클래스 대학생멘토 선발공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766012&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766012</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026학년도 하계방학 근로(행정부서) 장학생 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765999&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765999</guid>
@@ -189,15 +177,15 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 6월 1주차 주간 채용(인턴) 정보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766086&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766086</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단] 2026학년도 1차 교내 환경정화(플로깅) 봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766096&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766096</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 6월 1주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766086&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766086</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
