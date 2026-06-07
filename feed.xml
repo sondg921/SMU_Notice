@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 07 Jun 2026 13:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 15:24:45 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,6 +31,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [현장실습·일경험지원팀(서울)] 2025학년도 동계방학 현장실습학기제 참여 학생 모집 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760534&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_760534</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내(추가 선발)</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760931&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_760931</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [공지] 2026학년도 제1학기 취업계 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=762885&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_762885</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [취업진로지원팀] 청년 어학, 자격시험 응시료 지원사업 안내</title>
@@ -87,12 +105,6 @@
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026학년도 제1학기(2026-2 진입)  전공선택 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765363&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_765363</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [교직지원센터] 2026학년도 비사범계 교직과정 이수예정자 선발 계획 안내(문헌정보학전공, 식품영양학전공, 컴퓨터과학전공)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=765409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_765409</guid>
@@ -103,24 +115,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765488&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765488</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [공지] 2026학년도 제1학기 다(부)전공, 마이크로전공 신청(취소) 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765614&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_765614</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [공지] 2026학년도 제1학기 자기설계융합전공 신청 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765620&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_765620</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [공지] 2026학년도 제2학기 진입 미래설계학기(학점)제 신청 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765621&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_765621</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [홍보] 2026-1 컴퓨터과학전공 졸업생 초청 진로설명회</title>
