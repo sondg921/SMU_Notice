@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 07 Jun 2026 23:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 04:05:25 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,12 +141,6 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 2026년 제5차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766089&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766089</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단] 2026학년도 1차 교내 환경정화(플로깅) 봉사활동 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766096&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766096</guid>
@@ -277,6 +271,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766253&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766253</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 소아청소년 당뇨인 및 췌장장애인을 위한 푸른빛 희망 장학금 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766304&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766304</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
