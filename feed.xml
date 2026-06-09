@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 05:06:35 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,12 +31,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [현장실습·일경험지원팀(서울)] 2025학년도 동계방학 현장실습학기제 참여 학생 모집 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760534&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_760534</guid>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내(추가 선발)</title>
@@ -147,12 +141,6 @@
       <pubDate>Sun, 31 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_하나은행</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766151&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766151</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [SAF Korea] 2027년봄학기 SAF 방문학생 / IES 해외인턴십대면설명회</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766180&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766180</guid>
@@ -253,6 +241,30 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766304&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766304</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] 2026학년도 전체 재학생 대상 SM-IN 핵심역량 진단</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766347&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_766347</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년도 UN 장애인권리협약 협력단 상반기 릴레이포럼</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766342&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766342</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 2026학년도 1학기 셔틀버스 운행 종료 일정안내[6/15(월) 까지 운행]</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766345&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766345</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 2026학년도 1학기 천원의 아침밥 종료 안내[6/11(목) 까지 운영]</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766346&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766346</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
