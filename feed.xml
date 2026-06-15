@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:24:47 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,12 +31,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [현장실습·일경험지원팀(서울)] 2025학년도 동계방학 현장실습학기제 참여 학생 모집 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=760534&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_760534</guid>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내(추가 선발)</title>
@@ -111,6 +105,12 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[컴과] [공지] 2026학년도 비사범계 교직이수 선발 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765524&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_765524</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[컴과] [마감][장학] 2026학년도 1학기 면학B장학금(2차) 선발 및 신청 안내 (~5/21)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=765787&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_765787</guid>
@@ -126,6 +126,12 @@
       <title>[컴과] 2026학년도 하계방학 단축근무 및 집중휴가 기간 안내 (2026.06.29.~8.21.)</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766206&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_766206</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [국가안보학과] 2026-1 하계 특별학기 '국제기구와 글로벌 거버넌스' 교과목 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766232&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766232</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -219,12 +225,6 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [로컬 국토대장정 in 제주] 프로그램 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766430&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766430</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 6월 3주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766437&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766437</guid>
@@ -235,6 +235,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766435&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766435</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터(서울)] 2026-1학기 상명 엑스퍼트 공모전 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766453&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766453</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 실습기관 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766461&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766461</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
