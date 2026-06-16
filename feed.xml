@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 04:14:06 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -135,12 +135,6 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 2026년 제6차 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766253&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766253</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026년 하계 「연희청소년센터 예비청소년지도사 현장실습」 실습생 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766268&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766268</guid>
@@ -241,6 +235,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766471&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766471</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026 차차통통 장애인 정책 공모전 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766475&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766475</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
