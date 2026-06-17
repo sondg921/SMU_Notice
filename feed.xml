@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:12:24 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -259,6 +259,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766514&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766514</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [선후배] 2026학년도 1학기 융합공과대학 선후배이어주기 만족도 조사 참여 안내(~6.26.(금))</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766535&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_766535</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
