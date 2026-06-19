@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:20:32 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -133,12 +133,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766216&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766216</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)] 2026년 시립금천청소년센터 현장실습생 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766272&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766272</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 소아청소년 당뇨인 및 췌장장애인을 위한 푸른빛 희망 장학금 안내</title>
@@ -283,6 +277,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766571&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766571</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 6월 4주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766588&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766588</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026-2학기 대상 휴학·복학 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766591&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766591</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 1학기 학생 디지털 역량강화 교육_2차 특강</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766595&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766595</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
