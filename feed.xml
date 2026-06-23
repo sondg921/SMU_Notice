@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:40:02 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -165,12 +165,6 @@
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026 차차통통 장애인 정책 공모전 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766475&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766475</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026학년도 1학기 창업장학금 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766499&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766499</guid>
@@ -270,6 +264,24 @@
       <title>[전체] [학사운영팀] 2026학년도 하계 특별학기 개설 교과목 확정 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766649&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766649</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교육혁신추진팀] 2026-1학기 상명피날레 시행 안내(서울/천안)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766655&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766655</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명소셜임팩트센터] 아트센터 나비 전시 운영보조 자원봉사자 모집 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766656&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766656</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 운영 서버 이관 작업 및 교내 메일 연계시스템 업그레이드에 따른 일시 순단 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766660&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766660</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
