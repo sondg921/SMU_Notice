@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:04:38 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -195,12 +195,6 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [한일문화콘텐츠전공] 2026-1 하계 특별학기 '일본콘텐츠현장답사' 교과목 추가접수 안내 (5인, 도쿄)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766566&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766566</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [인문사회 융합인재양성사업단] HUSS 홍보대사 HUGS 4기와 함께하는 ‘AI 활용 인문사회 시각화 공모전’ 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766571&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766571</guid>
@@ -261,21 +255,15 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명소셜임팩트센터] 아트센터 나비 전시 운영보조 자원봉사자 모집 공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766656&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766656</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 운영 서버 이관 작업 및 교내 메일 연계시스템 업그레이드에 따른 일시 순단 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766660&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766660</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 학술정보관 시스템(홈페이지, 모바일앱 등) 일시중지 안내: 2026. 6. 24.(수)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766667&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766667</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명소셜임팩트센터] 아트센터 나비 전시 운영보조 자원봉사자 모집 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766656&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766656</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
