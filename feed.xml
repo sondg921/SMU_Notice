@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 28 Jun 2026 23:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:00:03 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -171,18 +171,6 @@
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_현대오토에버</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766640&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766640</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 하계 특별학기 개설 교과목 확정 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766649&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766649</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 학술정보관 시스템(홈페이지, 모바일앱 등) 일시중지 안내: 2026. 6. 24.(수)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766667&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766667</guid>
@@ -295,6 +283,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766780&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766780</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2027학년도 2학기 파견 교환학생 지원 예정자 대상 SAF Korea 설명회 사전 참여 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766784&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766784</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_한화생명</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766793&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766793</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
