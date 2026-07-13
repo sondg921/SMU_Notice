@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:26:36 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -135,18 +135,6 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [교수학습혁신센터(서울)] 2026학년도 하계방학 스위트박스 학습컨설팅_트랙2 맞춤형 1:1 튜터링 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766866&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766866</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명사회봉사단]제9회 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766894&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766894</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026학년도 2학기 학자금 대출 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766903&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766903</guid>
@@ -270,6 +258,24 @@
       <title>[전체] 2026년 청년창업 아이디에이션 4.0 참가자 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767045&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767045</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [바이오헬스] 혁신융합대학 2026학년도 2학기 수강신청 및 학사일정 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767061&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767061</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 상명대학교 발전기금 홈페이지 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767063&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767063</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년도 정읍시민장학재단 우수인재장학금 장학생 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767064&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767064</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
