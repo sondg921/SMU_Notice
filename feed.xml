@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 12 Jul 2026 23:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:50:39 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -133,12 +133,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766535&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_766535</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2027년 청년능력개발지원사업 일본어학연수 학비지원 장학금 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766863&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766863</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [교수학습혁신센터(서울)] 2026학년도 하계방학 스위트박스 학습컨설팅_트랙2 맞춤형 1:1 튜터링 모집 안내</title>
@@ -271,6 +265,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767027&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767027</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 청년창업 아이디에이션 4.0 참가자 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767045&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767045</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
