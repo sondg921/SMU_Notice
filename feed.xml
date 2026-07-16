@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 23:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:26:32 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -141,6 +141,12 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 참여자 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766767&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_766767</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] 2026년도 세종이도인재장학금 디딤돌 장학사업 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766930&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766930</guid>
@@ -175,12 +181,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767008&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767008</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명사회봉사단]제10회 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767013&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767013</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026년 8월 동네창업학교 모집</title>
@@ -265,6 +265,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767136&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767136</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터] 2026학년도 1학기 상명 엑스퍼트 공모전 수상자 발표</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767154&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767154</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
