@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:09:54 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -300,6 +300,12 @@
       <title>[전체] [학사운영팀] 학적부 기재사항 정정 신청 방법 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767363&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767363</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [HUSS 사회구조 컨소시엄] 2026학년도 제2학기 HUSS 공동체혁신융합전공 수강신청 및 학사일정 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767382&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767382</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
