@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Jul 2026 02:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:54:31 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -177,12 +177,6 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 8월 동네창업학고 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767177&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767177</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [산학엑셀러레이팅센터] 2026학년도 2학기 「상명 청취사 서포터즈」 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767179&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767179</guid>
@@ -288,6 +282,24 @@
       <title>[전체] [취업진로지원팀] 7월 5주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767352&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767352</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [산학엑셀러레이팅센터] 2026학년도 2학기 「상명 청취사 서포터즈」 2차 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767365&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767365</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 화성시인재육성재단 코나아이 소상공인 장학생 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767359&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767359</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 학적부 기재사항 정정 신청 방법 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767363&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767363</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
