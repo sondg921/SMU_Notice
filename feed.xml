@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:30:55 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -177,6 +177,12 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] 8월 동네창업학고 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767177&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767177</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [산학엑셀러레이팅센터] 2026학년도 2학기 「상명 청취사 서포터즈」 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767179&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767179</guid>
@@ -216,12 +222,6 @@
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_현대모비스</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767261&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767261</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_삼성바이오로직스</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767262&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767262</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
