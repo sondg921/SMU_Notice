@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:13:59 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -171,19 +171,13 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 8월 동네창업학고 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767177&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767177</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [산학엑셀러레이팅센터] 2026학년도 2학기 「상명 청취사 서포터즈」 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767179&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767179</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [바이오헬스] 「2026 바이오헬스 글로벌 매칭 프로그램」 참가자 모집</title>
+      <title>[전체] [바이오헬스] 「2026 바이오헬스 글로벌 매칭 프로그램」 참가자 모집(★모집 기간 연장 및 심사일정 안내)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767169&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767169</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
@@ -301,6 +295,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767382&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767382</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [SAFKorea]디자인/미디어/아트/필름/사진/건축전공생을위한 SAF 방문학생설명회</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767396&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767396</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 및 동계방학 한국토지주택공사 서울지역본부 현장실습생 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767384&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767384</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원센터] 서울영커리언스 챌린지(가을학기) 참여자 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767392&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767392</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
