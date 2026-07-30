@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:26:22 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -31,6 +31,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=758963&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_758963</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [교무처] 대학 제·증명서 발급 홈페이지 및 운영 방법 변경 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=759013&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_759013</guid>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교무처] 2025학년도 제2학기 포트폴리오 졸업인증제(논문,작품,시험,대체 등) 신청 안내</title>
@@ -123,18 +129,6 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [선후배] 2026학년도 1학기 융합공과대학 선후배이어주기 만족도 조사 참여 안내(~6.26.(금))</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=766535&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_766535</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [인문사회 융합인재양성사업단] HUSS 홍보대사 HUGS 4기와 함께하는 ‘AI 활용 인문사회 시각화 공모전’ 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766571&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_766571</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [교무처] 수강신청 학점이월제 시행 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=766942&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_766942</guid>
@@ -145,12 +139,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767018&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767018</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [산학엑셀러레이팅센터] 2026학년도 2학기 「상명 청취사 서포터즈」 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767179&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767179</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [바이오헬스] 「2026 바이오헬스 글로벌 매칭 프로그램」 참가자 모집(★모집 기간 연장 및 심사일정 안내)</title>
