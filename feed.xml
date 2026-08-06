@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:12:40 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -153,12 +153,6 @@
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [HUSS 사회구조 컨소시엄] 2026학년도 제2학기 HUSS 공동체혁신융합전공 수강신청 및 학사일정 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767382&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767382</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 및 동계방학 한국토지주택공사 서울지역본부 현장실습생 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767384&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767384</guid>
@@ -289,6 +283,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767570&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767570</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 8월 2주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767585&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767585</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
