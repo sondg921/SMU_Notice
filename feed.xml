@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:40:02 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -153,12 +153,6 @@
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [SAFKorea]디자인/미디어/아트/필름/사진/건축전공생을위한 SAF 방문학생설명회</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767396&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767396</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 참여자 모집(SK쉴더스)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767415&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767415</guid>
@@ -291,6 +285,12 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [혁신IR센터] 2026학년도 2차 상명프렌즈 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767636&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767636</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 및 동계방학 연계 한국토지주택공사 서울지역본부 현장실습생 추가 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767612&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767612</guid>
@@ -312,6 +312,12 @@
       <title>[전체] [학술정보관] 제2자료실 두레장학생(두레조교) 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767627&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767627</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교육혁신추진팀] 2026-1 캡스톤디자인 경진대회 심사 결과 안내(서울)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767631&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767631</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
