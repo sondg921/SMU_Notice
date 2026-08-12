@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:13:55 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -139,6 +139,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767018&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767018</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_LIG디펜스&amp;에어로스페이스</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767472&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767472</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [상명대학교박물관] 교육조교 채용 안내</title>
@@ -321,12 +327,6 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [국제언어문화교육원] 2026학년도 여름학기 위탁 단기과정 버디 학생 모집 공고(추가모집)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767705&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767705</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기-동계방학 연계 한국토지주택공사 서울지역본부 현장실습생 추가 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767695&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767695</guid>
@@ -339,9 +339,21 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [국제언어문화교육원] 2026학년도 여름학기 위탁 단기과정 버디 학생 모집 공고(추가모집)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767705&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767705</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [교육혁신추진팀] 2026학년도 1학기 「상명 피날레」 수상자 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767709&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767709</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [비교과통합지원센터] 2026-1학기 비교과 마일리지 장학생 선발 안내(서울,천안)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767721&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767721</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
