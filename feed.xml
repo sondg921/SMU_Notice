@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:58:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:13:21 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -336,6 +336,12 @@
       <title>[전체] 2026년 8월 민방위훈련 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767703&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767703</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교육혁신추진팀] 2026학년도 1학기 「상명 피날레」 수상자 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767709&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767709</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
