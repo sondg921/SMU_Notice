@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:45:20 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -354,6 +354,12 @@
       <title>[전체] [비교과통합지원센터] 2026-1학기 비교과 마일리지 장학생 선발 안내(서울,천안)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767721&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767721</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 2026학년도 1학기 교내 근로(행정부서) 장학생 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767731&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767731</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
