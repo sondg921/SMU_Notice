@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:00:01 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -139,12 +139,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767018&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767018</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026년 중국어권 교환학생, 단기 어학연수 귀국보고서 양식</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767494&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767494</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [국제언어문화교육원] 2026학년도 여름학기 단기과정 버디 학생 모집 공고(마감)</title>
@@ -351,10 +345,28 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생복지팀] 2026학년도 1학기 교내 근로(행정부서) 장학생 신청 안내</title>
+      <title>[전체] [학생복지팀] 2026학년도 2학기 교내 근로(행정부서) 장학생 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767731&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767731</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [장학] 2026학년도 2학기 근로장학생 신청</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=767750&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_767750</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [취업진로지원팀] 8월 3주차 주간 채용(인턴) 정보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767742&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767742</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명사회봉사단] 제12회 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767759&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767759</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
