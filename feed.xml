@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 14 Aug 2026 14:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:51:47 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -153,28 +153,10 @@
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026학년도 2학기 학부 및 대학원 재학생 등록 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767525&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767525</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 2학기 등록금 분할납부 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767526&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767526</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [긴급] e-Campus 서비스 접속 장애 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767557&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767557</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 한국교육정보화재단 주관 대학생 Adobe 공동구매 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767611&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767611</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [한국장학재단] 2026학년도 2학기 2차 주거안정장학금 신청 홍보</title>
@@ -189,15 +171,15 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [국제언어문화교육원] 2026학년도 여름학기 위탁 단기과정 버디 학생 모집 공고(마감)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767624&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767624</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단] 자투리천 곱창 머리끈 만들기 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767616&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767616</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [국제언어문화교육원] 2026학년도 여름학기 위탁 단기과정 버디 학생 모집 공고(마감)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767624&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767624</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
