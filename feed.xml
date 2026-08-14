@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 14 Aug 2026 06:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:15:28 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -171,12 +171,6 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 하반기 군산시 대학생 학자금 이자지원 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767603&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767603</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 한국교육정보화재단 주관 대학생 Adobe 공동구매 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767611&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767611</guid>
@@ -336,6 +330,12 @@
       <title>[전체] 2026년 손태희장학재단 4기 장학생 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767805&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767805</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 26-2 교내장학금 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767816&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767816</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
