@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:42:15 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -147,18 +147,6 @@
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [교육혁신추진팀] 2026-1 캡스톤디자인 경진대회 심사 결과 안내(서울)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767631&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767631</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2026학년도 2학기 국가장학금 재학생 우선(학비)감면 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767641&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767641</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [혁신IR센터] 2026학년도 2차 상명프렌즈 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767636&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767636</guid>
@@ -183,7 +171,7 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [인문사회 융합인재양성사업단] HUSS 비교과 프로그램 ‘현직자의 AI 비밀노트 2026’ 안내</title>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 비교과 프로그램 '현직자의 AI 비밀노트 2026' 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767693&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767693</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0900</pubDate>
@@ -291,6 +279,18 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [혁신IR센터] 2026년 학부교육실태조사 참여 사전 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767853&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767853</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [서울시] 서울 국제개발협력 영상 챌린지 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767855&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767855</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [비교과통합지원센터] 2026-2학기「상명비교과서포터즈」13기 모집 안내(서울, 천안)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767830&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767830</guid>
@@ -312,6 +312,18 @@
       <title>[전체] [학생복지팀] 2026년 2학기 국가장학금 2차 신청 안내 및 홍보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767841&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767841</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 공통 비교과 프로그램 '사회구조 변동을 쓰다' 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767850&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767850</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 공통 비교과 프로그램 '탐험하락: 읽고·듣고·보고 AI로 다시 만나는 백제' 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767851&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767851</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
