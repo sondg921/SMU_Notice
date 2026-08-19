@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:14:52 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -201,12 +201,6 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [장학] 2026학년도 2학기 근로장학생 신청</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=767750&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_767750</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 8월 3주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767742&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767742</guid>
@@ -319,6 +313,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767857&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767857</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명사회봉사단] 중랑천 생태교란식물 제거 봉사활동 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767863&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767863</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
