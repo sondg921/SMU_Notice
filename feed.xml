@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:19:29 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -177,12 +177,6 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [국제언어문화교육원] 일본 대학생과의 교류회 참가 학생 모집 공고(마감)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767883&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_767883</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 2학기 컴퓨터과학전공 학부연구실(G302호) 운영 및 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=767925&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_767925</guid>
@@ -343,6 +337,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768081&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768081</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [이탈리아 대사관]세계 이탈리아 스포츠의 날 행사 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768086&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768086</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 2학기 학부 및 대학원 재학생 추가 등록 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768087&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768087</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
