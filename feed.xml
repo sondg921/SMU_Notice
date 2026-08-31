@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:06:30 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -127,6 +127,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767495&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_767495</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 공통 비교과 프로그램 '탐험하락: 읽고·듣고·보고 AI로 다시 만나는 백제' 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=767851&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_767851</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [공지] 2026학년도 2학기 컴퓨터과학전공 학부연구실(G302호) 운영 및 신청 안내</title>
@@ -337,6 +343,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768167&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768167</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생복지팀] 2026학년도 2학기 중앙동아리 홍보 행사 시행</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768195&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768195</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 2학기 성남시 다자녀가구(셋째부터) 대학생 등록금 지원 신청 홍보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768196&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768196</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 하반기 익산시 대학생 학자금 대출이자 지원 홍보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768197&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768197</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
