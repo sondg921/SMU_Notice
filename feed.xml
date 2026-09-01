@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 01 Sep 2026 03:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:13:54 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -225,12 +225,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년도 하반기 울산연구원 장학생 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768119&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768119</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026년 2학기 선원가족장학사업 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768120&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768120</guid>
@@ -393,9 +387,27 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [WIDEEP교육혁신원] 두레장학생 채용 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768247&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768247</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [상명사회봉사단]2026년 어린이 전통놀이 한마당 행사지원 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768239&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768239</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 공통 비교과 프로그램 ‘제16회 서강청년영화제’ 출품작 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768252&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768252</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [한국장학재단] 2026년 2학기 국가장학금 신청자 가구원 동의 요청</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768267&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768267</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
