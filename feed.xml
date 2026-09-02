@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 03:15:00 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -213,18 +213,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] (재)달서인재육성장학재단 2026년도 하반기 장학생 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768122&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768122</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026년 2학기 통영시 대학생 등록금 전액 지원 사업 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768123&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768123</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 2026년도 (재)광산장학회 장학생 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768124&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768124</guid>
@@ -391,6 +379,30 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768267&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768267</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 두을장학재단 제29기 장학생 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768271&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768271</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 세종이도인재장학금(핵심인재육성장학사업) 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768274&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768274</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 「2026년 국가유산진흥원 전통 기·예능 분야 및 매장유산 관련 분야 우수 장학생」선발 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768275&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768275</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년 상반기분 통영시 대학생 학자금 이자 지원 신청에 따른 홍보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768276&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768276</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
