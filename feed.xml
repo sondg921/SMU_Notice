@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 08 Sep 2026 05:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:43:51 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -213,12 +213,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 세종이도인재장학금(핵심인재육성장학사업) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768274&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768274</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] 동산장학회 장학금 신청 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768319&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768319</guid>
@@ -369,6 +363,12 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [학생복지팀] 26-2 교내 장학금 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768505&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768505</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [상명사회봉사단] 2026학년도 4차 교내 환경정화(플로깅) 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768463&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768463</guid>
@@ -384,6 +384,18 @@
       <title>[전체] Google Gemini 학부(과·전공) 대항전 ‘AI:RENA’ 참여 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768489&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768489</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] HUSS 공통 비교과 프로그램 '현장실습 체험 영상·수기 공모전' 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768493&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768493</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 제2학기 포트폴리오 졸업인증제(논문,작품,시험,대체 등) 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768504&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768504</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
