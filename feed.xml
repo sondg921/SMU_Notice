@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 08 Sep 2026 00:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:43:38 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -189,12 +189,6 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [WIDEEP교육혁신원] 두레장학생 채용 공고</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768247&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768247</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명사회봉사단]2026년 어린이 전통놀이 한마당 행사지원 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768239&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768239</guid>
@@ -216,12 +210,6 @@
       <title>[컴과] 2026학년도 제2학기 조기졸업 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768312&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_768312</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 두을장학재단 제29기 장학생 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768271&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768271</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -369,9 +357,33 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [창업지원센터] 2026학년도 2학기 창업동아리 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768476&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768476</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [SJC Global] 2027 UNITAR-UN 제네바 국제기구 연수 프로그램 참가자 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768479&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768479</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [상명사회봉사단] 2026학년도 4차 교내 환경정화(플로깅) 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768463&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768463</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 대학(원)생 대상 Google AI Plus 1년 무료 학생 혜택 안내(2026. 12. 31.까지)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768488&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768488</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] Google Gemini 학부(과·전공) 대항전 ‘AI:RENA’ 참여 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768489&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768489</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
