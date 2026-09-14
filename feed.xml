@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:52:04 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -189,12 +189,6 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 제15회 시각장애인 청년들의 댄스교실 활동지원 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768443&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768443</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [교수학습혁신센터(서울)] 2026학년도 2학기 스터디상생플러스 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768409&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768409</guid>
@@ -223,12 +217,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768451&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768451</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명사회봉사단] 2026학년도 4차 교내 환경정화(플로깅) 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768463&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768463</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [SJC Global] 2027 UNITAR-UN 제네바 국제기구 연수 프로그램 참가자 모집 안내</title>
@@ -331,6 +319,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768666&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768666</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 「엔터테크, 서울 2026」개최 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768707&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768707</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [부산정보산업진흥원] 2026년 AI 창업 경진대회</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768712&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768712</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [상명사회봉사단] 2026학년도 제1차 리필스테이션 운영 봉사활동 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768742&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768742</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
