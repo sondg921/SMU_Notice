@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:32:52 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -219,12 +219,6 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026 고속도로 장학생 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768660&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768660</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [교육혁신추진팀] 2026-2 캡스톤디자인 설명회(09.10.) 영상/자료 공유(서울)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768680&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768680</guid>
@@ -325,6 +319,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768866&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_768866</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [공지] 2026-2학기 평생지도교수 변경 신청 안내 (26. 9. 22.(화) 13:00 까지)</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768919&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_768919</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년도 하반기 봄내장학생 선발 공고</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768909&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_768909</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
