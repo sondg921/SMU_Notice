@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:16:24 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -25,6 +25,12 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=746469&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_746469</guid>
       <pubDate>Fri, 03 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[컴과] [교직] 2025학년도 비사범계 교직과정 이수 희망 신청 안내</title>
+      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=756241&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">컴과_756241</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교무처] 대학 제·증명서 발급 홈페이지 및 운영 방법 변경 안내</title>
@@ -111,12 +117,6 @@
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[컴과] [공지] 2026학년도 2학기 컴퓨터과학전공 학부연구실(G302호) 운영 및 신청 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=767925&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_767925</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [학사운영팀] 2026학년도 제2학기 K-MOOC 학점인정 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=767942&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_767942</guid>
@@ -180,12 +180,6 @@
       <title>[컴과] [졸업] 2026학년도 제2학기 포트폴리오 졸업인증제 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768543&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_768543</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생상담센터(서울)] 학생상담센터 두레조교 채용 [선발완료:9월 15일]</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768538&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768538</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
