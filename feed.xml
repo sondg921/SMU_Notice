@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:41:06 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -139,12 +139,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768543&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_768543</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_한미그룹</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769017&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769017</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 상명 토론대회 안내</title>
@@ -315,6 +309,12 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [혁신] 2026학년도 학문후속세대 인재양성 연구혁신 프로그램 해커톤 개최(참가자 모집)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769264&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769264</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [슈어소프트테크] 2027년 신입사원 공개채용 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769241&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769241</guid>
@@ -342,6 +342,12 @@
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 상명 토론대회 안내(일정변경)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769258&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769258</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [인문사회 융합인재양성사업단] ‘함께 만드는 HUSS’ 학생 설문조사안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769262&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769262</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
