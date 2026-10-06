@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:58:02 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -133,12 +133,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768543&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_768543</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026년 수뭉이 추석 인사말 카드 이미지 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769062&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769062</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 2026년도 하반기 (재)논산시장학회 학업장려 장학생 선발 안내</title>
@@ -309,6 +303,12 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] 풀브라이트 미국유학/연구 장학금 설명회 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769321&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769321</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 동계방학 현장실습학기제 실습기관 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769272&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769272</guid>
@@ -324,6 +324,12 @@
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 프레젠테이션대회(영어) 안내(기간연장)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769286&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769286</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 경기문화예술 1000인 정책 참여단 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769316&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769316</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
