@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 05 Oct 2026 17:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:07:00 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -297,12 +297,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [의사소통능력개발센터(서울)] 프레젠테이션대회(국어) 특강 진행</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769252&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769252</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 상명 토론대회 안내(일정변경)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769258&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769258</guid>
@@ -313,6 +307,24 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769262&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769262</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 동계방학 현장실습학기제 실습기관 모집 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769272&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769272</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 프레젠테이션대회(국어) 안내(기간연장)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769285&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769285</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 프레젠테이션대회(영어) 안내(기간연장)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769286&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769286</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
