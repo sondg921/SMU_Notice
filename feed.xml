@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:48:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:31:23 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -25,12 +25,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=746469&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_746469</guid>
       <pubDate>Fri, 03 May 2024 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[컴과] [교무처] 대학 제·증명서 발급 홈페이지 및 운영 방법 변경 안내</title>
-      <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=759013&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">컴과_759013</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[컴과] [교무처] 2025학년도 제2학기 포트폴리오 졸업인증제(논문,작품,시험,대체 등) 신청 안내</title>
@@ -123,28 +117,10 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 하반기 인재육성 장학생 선발계획 공고 안내(기간 연장)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=768425&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_768425</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [졸업] 2026학년도 제2학기 포트폴리오 졸업인증제 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=768543&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_768543</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 프레젠테이션대회(국어) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769084&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769084</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 프레젠테이션대회(영어) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769085&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769085</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [상명사회봉사단] 2026학년도 제3차 생명을 살리는 사회공헌활동 사랑의 헌혈운동 안내</title>
