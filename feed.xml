@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:20:30 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -133,12 +133,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769280&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769280</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_MITA Day(의료IT 기업 직무설명회)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769348&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769348</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [계당교양교육원] 2026학년도「교양교육 수요자 만족도 조사 개선 연구」연구자 공모</title>
@@ -307,6 +301,12 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769606&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769606</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 제주대학교 교육과학연구소 학술지 「교육과학연구」 제28권 제4호 논문 투고 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769612&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769612</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
