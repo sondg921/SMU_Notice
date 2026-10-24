@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:53:31 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -111,12 +111,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [혁신] 2026학년도 학문후속세대 인재양성 연구혁신 프로그램 해커톤 개최(참가자 모집)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769264&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769264</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 동계방학 현장실습학기제 실습기관 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769272&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769272</guid>
@@ -135,34 +129,10 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [혁신] 2026학년도 학문후속세대 인재양성 연구혁신 프로그램 학술대회 개최 안내(모집기간 연장)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769463&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769463</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026 국회 입법박람회 홍보 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769465&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769465</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [상명소셜임팩트센터] 2026년 구세군 자선냄비 자원봉사자 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769469&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769469</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [모집 기간 연장]글로벌 K-컬처 유람단 멘토 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769449&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769449</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026학년도 2학기 심리검사데이 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769500&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769500</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [상명사회봉사단] 2026학년도 지역사회 사랑 나눔 연탄봉사활동</title>
@@ -174,6 +144,12 @@
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 SM Writing Contest 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769485&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769485</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026학년도 2학기 심리검사데이 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769500&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769500</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
