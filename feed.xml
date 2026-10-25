@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:52:16 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -129,12 +129,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026학년도 2학기 심리검사데이 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769500&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769500</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 10월 4주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769505&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769505</guid>
@@ -252,6 +246,12 @@
       <title>[컴과] [안내] 우수프로젝트전 게시판 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=769692&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_769692</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 제2학기 중간 강의평가 시행 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769694&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769694</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
