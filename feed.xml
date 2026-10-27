@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:51:22 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -129,16 +129,10 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [상명사회봉사단] 2026학년도 동작청소년축제 행사지원 STAFF 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769591&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769591</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 커리어-HI: 「2026 바이오헬스 혁신융합대학 직무박람회」- 천안캠퍼스</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769606&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769606</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+      <title>[전체] 2025년 소득에 대한 근로·자녀장려금 기한 후 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769656&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769656</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [취업진로지원팀] 10월 5주차 주간 채용(인턴) 정보</title>
@@ -303,12 +297,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [교육혁신추진팀] 2026-2학기 상명 피날레 시행 안내(서울/천안)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769759&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769759</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [학생복지팀] 2026학년도 2학기 주거안정장학금 선발 및 제출서류 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769739&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769739</guid>
@@ -318,6 +306,12 @@
       <title>[전체] [앵커사업팀(서울)] 2026년도 청년취업사관학교 대학+ 교육생 모집 연장 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769758&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769758</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교육혁신추진팀] 2026-2학기 상명 피날레 시행 안내(서울/천안)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769759&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769759</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
