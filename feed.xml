@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:28:26 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -348,6 +348,12 @@
       <title>[전체] 2026년 통영시 저소득 대학생 장학금 지원대상자 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769819&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769819</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 SM Writing Contest 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769838&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769838</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
