@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:41:09 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -183,24 +183,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [한국유학생유치관리자협의회] 외국인 친구와 함께하는 KAIAS 주관 대학생 스키캠프 홍보</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769803&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769803</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [바이오헬스] 혁신융합대학 2026학년도 동계 계절수업 운영 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769814&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769814</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 SM Writing Contest 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769838&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769838</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [취업진로지원팀] 11월 1주차 주간 채용(인턴) 정보</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769818&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769818</guid>
@@ -210,6 +192,12 @@
       <title>[전체] 2026년 통영시 저소득 대학생 장학금 지원대상자 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769819&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769819</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 SM Writing Contest 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769838&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_769838</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
