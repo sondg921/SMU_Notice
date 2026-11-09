@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 09 Nov 2026 01:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:15:00 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -303,12 +303,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학생상담센터] 2026학년도 상담 및 프로그램 참여 수기 공모전 안내(장학금 총140만원)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770062&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770062</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [국립교통대학교] 2026학년도 별별상상 스타트업 챌린지 모집 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770071&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770071</guid>
@@ -318,6 +312,12 @@
       <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 참여자 모집 재안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770056&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770056</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학생상담센터] 2026학년도 상담 및 프로그램 참여 수기 공모전 안내(장학금 총140만원)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770062&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770062</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -333,6 +333,12 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] 2027-2028 이스라엘 정부초청 장학생 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770100&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770100</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] 국제언어문화교육원 두레장학생(두레조교) 채용 공고</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770095&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770095</guid>
@@ -342,6 +348,12 @@
       <title>[전체] [상명사회봉사단] 2026학년도 6차 교내 환경정화(플로깅) 봉사활동 모집</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770098&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770098</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [앵커사업팀(서울)] "AI교육과 취업" 26년 청년취업사관학교 대학+ 교육생 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770115&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770115</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
