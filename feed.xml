@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:11:49 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -183,12 +183,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] 2026년 통영시 저소득 대학생 장학금 지원대상자 선발 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769819&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769819</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 SM Writing Contest 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769838&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769838</guid>
@@ -349,6 +343,18 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770115&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770115</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [대외협력팀] 2027학년도 2학기 파견 디즈니 국제 교환 프로그램 참가자 모집조건 변경</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770178&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770178</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 문우림 제6기 장학생 선발 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770186&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770186</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
