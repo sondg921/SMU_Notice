@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 11 Nov 2026 08:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:56:14 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -171,18 +171,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [교육혁신추진팀] 2026-2학기 상명 피날레 시행 안내(서울/천안)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769759&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769759</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학생복지팀] 2026학년도 2학기 소동제 시행(11/2)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769847&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769847</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 제2학기 SM-CDR 나비오름 신청 및 변경 시행 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=769864&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_769864</guid>
@@ -217,12 +205,6 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769902&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_769902</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [창업지원센터] [이화여대] SCOUT ACADEMY 2026 제2회 창업 교수법 세미나</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769967&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769967</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] [교육혁신추진팀] 2026-1 캡스톤디자인 경진대회 우수사례 모음 영상</title>
@@ -309,6 +291,12 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [상명사회봉사단] 2026학년도 6차 교내 환경정화(플로깅) 봉사활동 모집</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770098&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770098</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] 2027-2028 이스라엘 정부초청 장학생 선발 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770100&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770100</guid>
@@ -318,12 +306,6 @@
       <title>[전체] 국제언어문화교육원 두레장학생(두레조교) 채용 공고</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770095&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770095</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [상명사회봉사단] 2026학년도 6차 교내 환경정화(플로깅) 봉사활동 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770098&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770098</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -348,6 +330,12 @@
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_유한양행</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770202&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770202</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2026년도 교육부장관 표창 추천 후보자 자체 공개 검증 실시</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770225&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770225</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
