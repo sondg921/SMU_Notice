@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:16:59 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -183,12 +183,6 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] (재)전기공사공제조합장학회 2027년도 제22기 장학생 선발 공고(전기관련학과)</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769960&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769960</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [공지] 2026학년도 제2학기 자기설계융합전공 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=770034&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_770034</guid>
@@ -198,6 +192,12 @@
       <title>[컴과] [공지] 2027학년도 제1학기 진입 미래설계학기(학점)제 신청 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=770036&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_770036</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교수학습혁신센터(천안)] 2026학년도 2학기 학생 디지털 역량 강화 교육 특강 신청 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770008&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770008</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -294,12 +294,6 @@
       <title>[전체] [취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_유한양행</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770202&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770202</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] 2026년도 교육부장관 표창 추천 후보자 자체 공개 검증 실시</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770225&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770225</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
