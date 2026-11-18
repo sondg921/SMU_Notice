@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:13:54 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -177,18 +177,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 참여자 모집 재안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770056&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770056</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [국립교통대학교] 2026학년도 별별상상 스타트업 챌린지 모집 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770071&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770071</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[전체] [의사소통능력개발센터(서울)] 2026학년도 2학기 에세이경진대회 안내(서울캠퍼스)</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770085&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770085</guid>
@@ -307,6 +295,30 @@
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770369&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770369</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [서울지방고용노동청] 서울지역 청년을 위한『고용24 취업특강(취업Dreamers)』운영 안내(11월)</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770395&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770395</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 외교부 해외안전여행 수칙 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770408&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770408</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] 2027년 1학기 국가장학금 1차 신청 안내 및 홍보</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770392&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770392</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 참가신청 및 결과물 제출 기한 연장</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770399&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770399</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
