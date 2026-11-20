@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:18:28 +0000</lastBuildDate>
     <item>
       <title>[컴과] [공지] 실습실 등 철야신청 방법 관련 안내</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=742696&amp;article.offset=0&amp;articleLimit=10</link>
@@ -117,36 +117,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[전체] [학사운영팀] 2026학년도 제2학기 전공선택 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769714&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769714</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 제2학기 소속변경 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769716&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769716</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 제2학기 다(부)전공 및 마이크로전공 신청(취소) 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769717&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769717</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2026학년도 제2학기 캠퍼스 내 전과 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769718&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769718</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [학사운영팀] 2027학년도 제1학기 대상 캠퍼스 간 전과 신청 안내</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=769719&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_769719</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[컴과] [홍보] 2026학년도 제2학기 졸업생 초청 진로 설명회</title>
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=769736&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_769736</guid>
@@ -175,18 +145,6 @@
       <link>https://cs.smu.ac.kr/cs/community/notice.do?mode=view&amp;articleNo=770036&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">컴과_770036</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [앵커사업팀(서울)] "AI교육과 취업" 26년 청년취업사관학교 대학+ 교육생 모집</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770115&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770115</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전체] [대외협력팀] 2027학년도 2학기 파견 디즈니 국제 교환 프로그램 참가자 모집조건 변경</title>
-      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770178&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
-      <guid isPermaLink="false">전체_770178</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[전체] 문우림 제6기 장학생 선발 안내</title>
@@ -303,9 +261,21 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[전체] [시바우라공업대학] 시바우라공업대학 GTI 심포지엄 및 JR동일본 글로벌 인재 설명회 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770531&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770531</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[전체] [교육혁신추진팀] 2026-2 캡스톤디자인 만족도 조사 참여 안내</title>
       <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770500&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
       <guid isPermaLink="false">전체_770500</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전체] [학사운영팀] 2026학년도 동계 계절수업 등록대상 교과목(폐강 교과목) 및 수강료 납부 안내</title>
+      <link>https://www.smu.ac.kr/kor/life/notice.do?mode=view&amp;articleNo=770533&amp;srCampus=smu&amp;article.offset=0&amp;articleLimit=10</link>
+      <guid isPermaLink="false">전체_770533</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
